@@ -1,6 +1,7 @@
 # BollywoodSensex - Movie Stock Trading Platform
 
-🎬 **Live URL**: https://cinematic-stocks-1.preview.emergentagent.com
+🎬 **Domain**: www.bollywoodsensex.com  
+🎬 **Current Preview**: https://cinematic-stocks-1.preview.emergentagent.com
 
 ## Overview
 
