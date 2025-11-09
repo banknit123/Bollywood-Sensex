@@ -66,3 +66,7 @@ mongod.lock
 # Supervisor logs
 *.out.log
 *.err.log
+-e 
+# Environment files
+*.env
+*.env.*
