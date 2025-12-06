@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://banknit123.github.io/bollywood-sensex",
+  "homepage": "https://bollywoodsensex.com",
   "dependencies": {
     "@hookform/resolvers": "^5.0.1",
     "@radix-ui/react-accordion": "^1.2.8",
@@ -59,6 +59,8 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test"
+    "predeploy": "craco build",
+  "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
